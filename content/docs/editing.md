@@ -24,6 +24,6 @@ Once you've got 2 views, you can move files between 2 views by drag-and-dropping
 
 ## Clone Document
 Drag and drop any tab that you want to clone (or right click on the tab) then choose "Clone to Other View" command from the popup context menu.
-The cloned document is the same document as its orinial one, but with the separated views.
+The cloned document is the same document as its original one, but with the separated views.
  
 ![](/docs/images/clonedDoc.gif)
